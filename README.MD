@@ -1,22 +1,27 @@
 # Overture’s Software and Electrical Training Resources
 
-<aside>
-💡 The training here is mandatory for every member of the Software and Electrical sub-team. Every member should complete the whole training course including both FTC and FRC content as everyone should be able to participate in both categories
+___
 
-</aside>
+> 💡 The training here is mandatory for every member of the Software and Electrical sub-team. Every member should complete the whole training course including both FTC and FRC content as everyone should be able to participate in both categories
+
 
 ## Instructions (PLEASE READ THIS)
 
-**Basic Instructions**
+### Basic Instructions
 
-**Order of Completion**
+### Order of Completion
 
-**Submitting Proof of Competition**
+The following file contains the order in which the course should be completed. Please follow the order to ensure that you have a good understanding of the topics covered.
 
-<aside>
-💡 Videos and Presentations will not be hosted on this page. Links to the presentations and videos will be provided on the pages inside, as well as summaries of topics covered in each one. The list below is not the order in which the course should be completed. The order to follow is described in a list above this block of text.
+[Order of Completion](Order%20of%20Completion.md)
 
-</aside>
+### Submitting Proof of Completion
+
+- Insert here how to submit proof of completion 
+
+___
+
+> 💡 Videos and Presentations will not be hosted on this page. Links to the presentations and videos will be provided on the pages inside, as well as summaries of topics covered in each one. The list below is not the order in which the course should be completed. The order to follow is described in a list above this block of text.
 
 ## Category Independent Resources
 
