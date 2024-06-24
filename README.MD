@@ -49,6 +49,18 @@ ___
 
 - ### Electrical
 
+[Learn the Basic Components](Resources%20OverviewFRC%20Electric%20Components.md)
+
+[Wiring Map](Resources%20Overview/FRC%20Wiring%20Map.md)
+
+[Cable Management](Resources%20Overview/FRC%20Cable%20Management.md)
+
+- #### Standard
+
+    [AWG Standard](Resources%20Overview/FRC%20FRC%20AWG%20Standard.md)
+
+    [Stripping Cable Standard](Resources%20Overview/FRC%20FRC%20Stripping%20Cable%20Standard.md)
+
 ## FTC Specific
 
 - ### Software
@@ -58,3 +70,16 @@ ___
 [FTC Library](Resources%20Overview/FTC%20Library.md)
 
 - ### Electrical
+
+[Learn the Basic Components](Resources%20Overview/FTC%20Electric%20Components.md)
+
+[Wiring Map](Resources%20Overview/FTC%20Wiring%20Map.md)
+
+[Cable Management](Resources%20Overview/FRC%20Cable%20Management.md)
+
+- #### Standard
+
+    [AWG Standard](Resources%20Overview/FTC%20FRC%20AWG%20Standard.md)
+
+    [Stripping Cable Standard](Resources%20Overview/FTC%20FTC%20Stripping%20Cable%20Standard.md)
+
