@@ -71,17 +71,28 @@ Before you begin, ensure your system meets the minimum requirements:
 3. The Android Studio Setup Wizard will open. Follow the instructions to complete the initial configuration. It is recommended to choose the standard installation option.
 4. Android Studio will download additional components required for development. This may take some time.
 
-## Verify Installation
+## Install FTC sample project
 
-### Step 1: Create a New Project
-1. Once the setup is complete, create a new project to verify the installation.
-2. Click on "Start a new Android Studio project".
-3. Follow the prompts to create a new project with default settings.
+After  installation, we must copy, the base code with examples that FIRST provides, called the FTCRobotController for that:
 
-### Step 2: Build and Run
-4. Once the project is created, click on the "Run" button to build and run your project.
-5. Ensure there are no errors and that the project builds successfully.
+### Step 1: Open FTCRobotController
+1. Open the FTC repository for the [FTCRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController). 
+2. Navigate to the Releases tab on the left side of the screen. 
 
-## Conclusion
+### Step 2: Download and Extract
+3. Download the `Source Code` `zip` or `tar.gz` under the "Assets" submenu.
 
-Congratulations! You have successfully installed Android Studio on your Mac or PC. You are now ready to start developing and testing your FTC robot code. If you encounter any issues, refer to the [Android Studio User Guide](https://developer.android.com/studio/intro) or seek help from your team members.
+4. Extract the Contents of the Archived project File. 
+
+### Step 3: Rename and Import
+5. During extraction, make sure to rename the destination folder to the desired name for the project. For example, `2024_InsertRobotName`. 
+
+### Step 4: Import intro Android Studio
+6. Import the recently extracted project into Android Studio. 
+
+7. Select the correct Gradle Project 
+
+8. Wait for Android Studio to finish synching the Gradle and project. 
+
+
+
