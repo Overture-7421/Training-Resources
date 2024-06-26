@@ -1,0 +1,2 @@
+# Stripping Cable Standard
+## Content

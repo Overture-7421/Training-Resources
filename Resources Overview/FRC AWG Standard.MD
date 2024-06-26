@@ -1,2 +1,0 @@
-# FTC AWG Standard
-## Content

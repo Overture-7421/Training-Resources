@@ -25,6 +25,9 @@ ___
 
 ## Category Independent Resources
 
+- ### Software
+
+
 [Language Agnostic Guide to Programming](Resources%20Overview/Language%20Agnostic%20Guide%20to%20Programming.md)
 
 [Version Control, Git and Github](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
@@ -36,6 +39,20 @@ ___
 [Java Basics and OOP](Resources%20Overview/Java%20Basics%20and%20OOP.md)
 
 [Motor Control and Motion Profiling](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+
+- ### Electrical
+
+[Cable Management](Resources%20Overview/Cable%20Management.md)
+
+
+- #### Standard
+
+    [AWG Standard](Resources%20Overview/AWG%20Standard.md)
+
+    [Stripping Cable Standard](Resources%20Overview/Stripping%20Cable%20Standard.md)
+
+
+
 
 ## FRC Specific
 
@@ -53,13 +70,7 @@ ___
 
 [Wiring Map](Resources%20Overview/FRC%20Wiring%20Map.md)
 
-[Cable Management](Resources%20Overview/Cable%20Management.md)
 
-- #### Standard
-
-    [AWG Standard](Resources%20Overview/FRC%20AWG%20Standard.md)
-
-    [Stripping Cable Standard](Resources%20Overview/FRC%20Stripping%20Cable%20Standard.md)
 
 ## FTC Specific
 
@@ -75,10 +86,4 @@ ___
 
 [Wiring Map](Resources%20Overview/FTC%20Wiring%20Map.md)
 
-[Cable Management](Resources%20Overview/Cable%20Management.md)
 
-- #### Standard
-
-    [AWG Standard](Resources%20Overview/FTC%20AWG%20Standard.md)
-
-    [Stripping Cable Standard](Resources%20Overview/FTC%20Stripping%20Cable%20Standard.md)

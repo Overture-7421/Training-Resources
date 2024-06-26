@@ -1,2 +1,0 @@
-# FRC AWG Standard
-## Content
