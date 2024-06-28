@@ -76,14 +76,20 @@ ___
 
 - ### Software
 
-[Android Studio](Resources%20Overview/Android%20Studio.md)
+[Android Studio & FTCController](Resources%20Overview/Android%20Studio.md)
 
 [FTC Library](Resources%20Overview/FTC%20Library.md)
+
+[ACME Robotics](Resources%20Overview/FTC%20ACME%20Robotics%20Lib.md)
+
+[Ramsette Command & Controller](Resources%20Overview/Ramsette%20Command%20&%20Controller.md)
 
 - ### Electrical
 
 [Learn the Basic Components](Resources%20Overview/FTC%20Electric%20Components.md)
 
 [Wiring Map](Resources%20Overview/FTC%20Wiring%20Map.md)
+
+
 
 
