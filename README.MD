@@ -28,9 +28,9 @@ Complete the courses in the order listed below.
 
 #### 1. [Language Agnostic Guide to Programming - Presentation](Resources%20Overview/Language%20Agnostic%20Guide%20to%20Programming.md)
 
-#### 2. [3 people - Exercise (Self-guided)](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
+#### 2. [3 people - Exercise](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
 
-#### 3. [10,000 random people - Exercise (Self-guided)](Resources%20Overview/Java%20Basics%20and%20OOP.md)
+#### 3. [10,000 random people - Exercise](Resources%20Overview/Java%20Basics%20and%20OOP.md)
 
 #### 4. [Basic OOP Concepts, Classes, Methods and Members - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
