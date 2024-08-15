@@ -2,93 +2,73 @@
 
 ___
 
-> 💡 The training here is mandatory for every member of the Software and Electrical sub-team. Every member should complete the whole training course including both FTC and FRC content as everyone should be able to participate in both categories
+> 💡 The training here is mandatory for every member of the Software and Electrical sub-team. Every member should complete the whole training course including both FTC and FRC content as everyone should be able to participate in both categories.
+>
+> Resouces included here are a mixture of presentations given by mentors and self-study resources that will include external resources and videos. The order of completion is important as some resources will build on the knowledge of previous resources.
 
 
-## Instructions (PLEASE READ THIS)
+## 1. Submitting Proof of Completion
 
-### Basic Instructions
+Depending on the resource, you may be required to submit proof of completion. 
 
-### Order of Completion
+For presentations given by mentors, you will be required to register your assitance after the presentation.
 
-The following file contains the order in which the course should be completed. Please follow the order to ensure that you have a good understanding of the topics covered.
+For external resources, you will be required to submit a screenshot of the completion certificate or a summary of the resource.
 
-[Order of Completion](Order%20of%20Completion.md)
+For excersises, you will be required to review the excersise with a mentor so he can verify your completion and understanding of the excersise.
 
-### Submitting Proof of Completion
+## 2. Order of Completion
+Complete the courses in the order listed below.
 
-- Insert here how to submit proof of completion 
+## 3. Category Independent Resources
 
-___
+### Software
 
-> 💡 Videos and Presentations will not be hosted on this page. Links to the presentations and videos will be provided on the pages inside, as well as summaries of topics covered in each one. The list below is not the order in which the course should be completed. The order to follow is described in a list above this block of text.
+#### Basic Programming Concepts
 
-## Category Independent Resources
+#### 1. [Language Agnostic Guide to Programming - Presentation](Resources%20Overview/Language%20Agnostic%20Guide%20to%20Programming.md)
 
-- ### Software
+#### 2. [Version Control, Git and Github - Presentation](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
 
+#### 3. [Java Basics and OOP - External Resources and Mentor Given Exercises](Resources%20Overview/Java%20Basics%20and%20OOP.md)
 
-[Language Agnostic Guide to Programming](Resources%20Overview/Language%20Agnostic%20Guide%20to%20Programming.md)
+#### 4. [Motor Control and Motion Profiling - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-[Version Control, Git and Github](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
+#### FTC Robot Programming
 
-[Object Oriented Programming](Resources%20Overview/Object%20Oriented%20Programming.md)
+#### 5. [Android Studio & FTCController - Presentation](Resources%20Overview/Android%20Studio.md)
 
-[C++ Basics, OOP and Pointers](Resources%20Overview/C++%20Basics,%20OOP%20and%20Pointers.md)
+#### 6. [FTC Library - Presentation and External Resources](Resources%20Overview/FTC%20Library.md)
 
-[Java Basics and OOP](Resources%20Overview/Java%20Basics%20and%20OOP.md)
+#### 7. [ACME Robotics - External Resources](Resources%20Overview/FTC%20ACME%20Robotics%20Lib.md)
 
-[Motor Control and Motion Profiling](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 8. [Ramsette Command & Controller - Presentation and External Resources](Resources%20Overview/Ramsette%20Command%20&%20Controller.md)
 
-- ### Electrical
+#### 9. [Program and Control a Robot - Mentor Given Exercises](Resources%20Overview/Program%20and%20Control%20a%20Robot.md)
 
-[Cable Management](Resources%20Overview/Cable%20Management.md)
+#### FRC Robot Programming
 
+#### 10. [C++ Basics, OOP and Pointers - - External Resources and Mentor Given Exercises](Resources%20Overview/C++%20Basics,%20OOP%20and%20Pointers.md)
 
-- #### Standard
+#### 11. [WPILib and Vendordeps, Photonvision and Advantage Scope - Presentations](Resources%20Overview/WPILib%20and%20Vendordeps,%20Don%E2%80%99t%20Reinvent%20The%20Wheel.md)
 
-    [AWG Standard](Resources%20Overview/AWG%20Standard.md)
+#### 12. [PathPlanner/Choreo, How Create Autonomous Commands](Resources%20Overview/A%20guide%20to%20PathPlanner,%20Photonvision%20and%20Advantage%20Scope.md)
 
-    [Stripping Cable Standard](Resources%20Overview/Stripping%20Cable%20Standard.md)
+#### 13. [Program and Control a Robot - Mentor Given Exercises](Resources%20Overview/Program%20and%20Control%20a%20Robot.md)
 
+### Electrical
 
+#### 1. [Cable Management](Resources%20Overview/Cable%20Management.md)
 
+#### 2. [Learn the Basic Components](Resources%20Overview/FTC%20Electric%20Components.md)
 
-## FRC Specific
+#### 3. [Wiring Map](Resources%20Overview/FTC%20Wiring%20Map.md)
 
-- ### Software
+#### 4. [AWG Standard](Resources%20Overview/AWG%20Standard.md)
 
-[Building a Software Ecosystem](Resources%20Overview/Building%20a%20Software%20Ecosystem.md)
-
-[WPILib and Vendordeps, Don’t Reinvent The Wheel](Resources%20Overview/WPILib%20and%20Vendordeps,%20Don%E2%80%99t%20Reinvent%20The%20Wheel.md)
-
-[A guide to PathPlanner, Photonvision and Advantage Scope](Resources%20Overview/A%20guide%20to%20PathPlanner,%20Photonvision%20and%20Advantage%20Scope.md)
-
-- ### Electrical
-
-[Learn the Basic Components](Resources%20Overview/FRC%20Electric%20Components.md)
-
-[Wiring Map](Resources%20Overview/FRC%20Wiring%20Map.md)
+#### 5. [Stripping Cable Standard](Resources%20Overview/Stripping%20Cable%20Standard.md)
 
 
-
-## FTC Specific
-
-- ### Software
-
-[Android Studio & FTCController](Resources%20Overview/Android%20Studio.md)
-
-[FTC Library](Resources%20Overview/FTC%20Library.md)
-
-[ACME Robotics](Resources%20Overview/FTC%20ACME%20Robotics%20Lib.md)
-
-[Ramsette Command & Controller](Resources%20Overview/Ramsette%20Command%20&%20Controller.md)
-
-- ### Electrical
-
-[Learn the Basic Components](Resources%20Overview/FTC%20Electric%20Components.md)
-
-[Wiring Map](Resources%20Overview/FTC%20Wiring%20Map.md)
 
 
 
