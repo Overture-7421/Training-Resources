@@ -28,11 +28,23 @@ Complete the courses in the order listed below.
 
 #### 1. [Language Agnostic Guide to Programming - Presentation](Resources%20Overview/Language%20Agnostic%20Guide%20to%20Programming.md)
 
-#### 2. [Version Control, Git and Github - Presentation](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
+#### 2. [3 people - Exercise (Self-guided)](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
 
-#### 3. [Java Basics and OOP - External Resources and Mentor Given Exercises](Resources%20Overview/Java%20Basics%20and%20OOP.md)
+#### 3. [10,000 random people - Exercise (Self-guided)](Resources%20Overview/Java%20Basics%20and%20OOP.md)
 
-#### 4. [Motor Control and Motion Profiling - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 4. [Basic OOP Concepts, Classes, Methods and Members - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+
+#### 5. [3 people with OOP - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+
+#### 6. [10,000 people with OOP - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+
+#### 7. [3 different proffesions - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+
+#### 8. [Inheritance - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+
+#### 9. [3 different proffesions with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+
+#### 10. [3 different proffesions, 10,000 persons with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
 #### FTC Robot Programming
 
