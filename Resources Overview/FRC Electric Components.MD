@@ -1,6 +1,0 @@
-# FRC Electric Components
-## Content
-
-
-
-

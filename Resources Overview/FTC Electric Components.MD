@@ -1,6 +1,0 @@
-# FTC Electric Components
-## Content
-
-
-
-

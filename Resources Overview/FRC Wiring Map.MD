@@ -1,2 +1,0 @@
-# FRC Wiring Map
-## Content
