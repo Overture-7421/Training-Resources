@@ -70,7 +70,11 @@ Complete the courses in the order listed below.
 
 #### FRC Robot Programming
 
+#### 10. [Control the robot with commands - Excersie](Resources%20Overview/Command%20Based%20Programming.md)
+
 #### 11. [WPILib and Vendordeps, Photonvision and Advantage Scope - Presentations](Resources%20Overview/WPILib%20and%20Vendordeps,%20Don%E2%80%99t%20Reinvent%20The%20Wheel.md)
+
+#### 12. [Make the robot move autonomously - Excersie](Resources%20Overview/PathPlanner,%20Photonvision%20and%20Advantage%20Scope.md)
 
 #### 12. [PathPlanner/Choreo, How Create Autonomous Commands](Resources%20Overview/A%20guide%20to%20PathPlanner,%20Photonvision%20and%20Advantage%20Scope.md)
 
