@@ -1,1 +1,0 @@
-# Motor Control and Motion Profiling

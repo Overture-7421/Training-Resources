@@ -1,2 +1,0 @@
-# FTC Wiring Map
-## Content
