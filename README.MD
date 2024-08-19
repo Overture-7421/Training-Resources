@@ -26,7 +26,7 @@ Complete the courses in the order listed below.
 
 #### Basic Programming Concepts
 
-#### 1. [W3 Schools - External Resources](Resources%20Overview/Java%20Basics%20and%20OOP.md)
+#### 1. [W3 Schools and Basics - External Resources and Presentations](Activities/Software/1.%20W3%20School%20Basics.MD)
 
 #### 2. [3 people - Exercise](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
 
