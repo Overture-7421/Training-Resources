@@ -28,39 +28,33 @@ Complete the courses in the order listed below.
 
 #### 1. [W3 Schools and Basics - External Resources and Presentations](Activities/Software/1.%20W3%20School%20Basics.MD)
 
-#### 2. [3 people - Exercise](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
+#### 2. [3 people / 10000 Random People - Exercise](Activities/Software/2.%203%20People%20Exercise.MD)
 
-#### 3. [10,000 random people - Exercise](Resources%20Overview/Java%20Basics%20and%20OOP.md)
+#### 3. [Basic OOP Concepts, Classes, Methods and Members - Presentation](Activities/Software/3.%20Basic%20OOP%20Concepts.MD)
 
-#### 4. [Basic OOP Concepts, Classes, Methods and Members - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 4. [3 people / 10000 Random People with OOP - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 5. [3 people with OOP - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 5. [3 different proffesions - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 6. [10,000 people with OOP - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 6. [Inheritance - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 7. [3 different proffesions - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 7. [3 different proffesions, 10,000 persons with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 8. [Inheritance - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 8. [Version Control, Git and Github - Presentation](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
 
-#### 9. [3 different proffesions with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 9. [WPI Installation - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 10. [3 different proffesions, 10,000 persons with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 10. [Simulation, NetworkTables and Motor Control - Presentation](Resources%20Overview/Simulation.md)
 
-#### 11. [Version Control, Git and Github - Presentation](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
+#### 11. [Simulation Basic - Excersie](Resources%20Overview/Simulation.md)
 
-#### 12. [WPI Installation - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 12. [Simulation Intermediate - Excersie](Resources%20Overview/Simulation.md)
 
-#### 13. [Simulation, NetworkTables and Motor Control - Presentation](Resources%20Overview/Simulation.md)
+#### 13. [PID, Motion Profiling and Motor Control - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 13. [Simulation Basic - Excersie](Resources%20Overview/Simulation.md)
+#### 14. [Make the robot move using commands - Excersie](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 14. [Simulation Intermediate - Excersie](Resources%20Overview/Simulation.md)
-
-#### 15. [PID, Motion Profiling and Motor Control - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
-
-#### 16. [Make the robot move using commands - Excersie](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
-
-#### 17. [Command Based Programming - Presentation](Resources%20Overview/Command%20Based%20Programming.md)
+#### 15. [Command Based Programming - Presentation](Resources%20Overview/Command%20Based%20Programming.md)
 
 #### FTC Robot Programming
 
