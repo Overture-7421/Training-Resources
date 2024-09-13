@@ -38,25 +38,23 @@ Complete the courses in the order listed below.
 
 #### 6. [Inheritance - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 7. [3 different proffesions with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 7. [3 different proffesions, 10,000 persons with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 8. [3 different proffesions, 10,000 persons with inheritance - Exercise](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 8. [Version Control, Git and Github - Presentation](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
 
-#### 9. [Version Control, Git and Github - Presentation](Resources%20Overview/Version%20Control,%20Git%20and%20Github.md)
+#### 9. [WPI Installation - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 10. [WPI Installation - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 10. [Simulation, NetworkTables and Motor Control - Presentation](Resources%20Overview/Simulation.md)
 
-#### 11. [Simulation, NetworkTables and Motor Control - Presentation](Resources%20Overview/Simulation.md)
+#### 11. [Simulation Basic - Excersie](Resources%20Overview/Simulation.md)
 
-#### 12. [Simulation Basic - Excersie](Resources%20Overview/Simulation.md)
+#### 12. [Simulation Intermediate - Excersie](Resources%20Overview/Simulation.md)
 
-#### 13. [Simulation Intermediate - Excersie](Resources%20Overview/Simulation.md)
+#### 13. [PID, Motion Profiling and Motor Control - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 14. [PID, Motion Profiling and Motor Control - Presentation](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
+#### 14. [Make the robot move using commands - Excersie](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
 
-#### 16. [Make the robot move using commands - Excersie](Resources%20Overview/Motor%20Control%20and%20Motion%20Profiling.md)
-
-#### 17. [Command Based Programming - Presentation](Resources%20Overview/Command%20Based%20Programming.md)
+#### 15. [Command Based Programming - Presentation](Resources%20Overview/Command%20Based%20Programming.md)
 
 #### FTC Robot Programming
 
