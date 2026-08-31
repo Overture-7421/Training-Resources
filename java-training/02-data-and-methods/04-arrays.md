@@ -37,4 +37,4 @@ Compute and print:
 
 ---
 
-[← Exercise 3](../01-syntax-and-control-flow/03-loops.md) · [Index](../README.md) · [Exercise 5 →](05-methods.md)
+[← Exercise 3](../01-syntax-and-control-flow/03-loops.md) · [Index](../../README.md) · [Exercise 5 →](05-methods.md)

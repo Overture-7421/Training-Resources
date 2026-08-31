@@ -40,4 +40,4 @@ Declare `double requestedPower`. Motor power must stay between `-1.0` and `1.0`.
 
 ---
 
-[← Exercise 1](01-variables-and-types.md) · [Index](../README.md) · [Exercise 3 →](03-loops.md)
+[← Exercise 1](01-variables-and-types.md) · [Index](../../README.md) · [Exercise 3 →](03-loops.md)

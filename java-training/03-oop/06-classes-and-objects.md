@@ -51,4 +51,4 @@ Three objects, one class, three completely independent sets of values. `leftFron
 
 ---
 
-[← Exercise 5](../02-data-and-methods/05-methods.md) · [Index](../README.md) · [Exercise 7 →](07-encapsulation-and-composition.md)
+[← Exercise 5](../02-data-and-methods/05-methods.md) · [Index](../../README.md) · [Exercise 7 →](07-encapsulation-and-composition.md)

@@ -1,7 +1,7 @@
 # Exercise 1 — Robot Stats Card
 
 **Category:** Syntax and control flow
-**Prerequisites:** none
+**Prerequisites:** the [Java Fundamentals deck](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit?usp=sharing), presented first.
 
 **Concepts:** `int`, `double`, `boolean`, `String`, `char`, declaration vs. assignment, arithmetic operators, integer division, `println` vs. `printf`, comments, `final`.
 
@@ -43,4 +43,4 @@ Inspected:   true
 
 ---
 
-[Index](../README.md) · [Exercise 2 →](02-conditionals.md)
+[Index](../../README.md) · [Exercise 2 →](02-conditionals.md)

@@ -59,4 +59,4 @@ A Drivetrain *has* Motors. That's composition, and it's the workhorse of real ro
 
 ---
 
-[← Exercise 6](06-classes-and-objects.md) · [Index](../README.md) · [Exercise 8 →](08-inheritance-and-polymorphism.md)
+[← Exercise 6](06-classes-and-objects.md) · [Index](../../README.md) · [Exercise 8 →](08-inheritance-and-polymorphism.md)

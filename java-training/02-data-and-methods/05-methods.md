@@ -44,4 +44,4 @@ Let them sit with it. Exercise 6 is the answer.
 
 ---
 
-[← Exercise 4](04-arrays.md) · [Index](../README.md) · [Exercise 6 →](../03-oop/06-classes-and-objects.md)
+[← Exercise 4](04-arrays.md) · [Index](../../README.md) · [Exercise 6 →](../03-oop/06-classes-and-objects.md)

@@ -38,4 +38,4 @@ Start at `0.0` power. Using a `while` loop, increase by `0.05` each pass and pri
 
 ---
 
-[← Exercise 2](02-conditionals.md) · [Index](../README.md) · [Exercise 4 →](../02-data-and-methods/04-arrays.md)
+[← Exercise 2](02-conditionals.md) · [Index](../../README.md) · [Exercise 4 →](../02-data-and-methods/04-arrays.md)

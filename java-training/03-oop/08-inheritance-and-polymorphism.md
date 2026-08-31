@@ -64,4 +64,4 @@ Then tell them: a real robot program runs a loop like that fifty times a second,
 
 ---
 
-[← Exercise 7](07-encapsulation-and-composition.md) · [Index](../README.md)
+[← Exercise 7](07-encapsulation-and-composition.md) · [Index](../../README.md)
